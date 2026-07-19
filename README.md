@@ -23,7 +23,7 @@ AI-powered automated product quality inspection using Deep Learning and Computer
 
 **Academic Year:** 2026–2027
 
-**Project Guide:** Dr. __________
+**Project Guide:** Ms. Aishee Chakraborty
 
 
 📌 Project Overview
